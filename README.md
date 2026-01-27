@@ -1,8 +1,8 @@
-<div align="center" style="background: linear-gradient(135deg, #0b0c10, #15162a, #2a2b3d); padding: 40px 20px; border-radius: 25px; box-shadow: 0 10px 30px rgba(0,0,0,0.6);">
+<div align="center" style="background: url('https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1600&q=80'); background-size: cover; background-position: center; padding: 40px 20px; border-radius: 25px; box-shadow: 0 10px 30px rgba(0,0,0,0.6);">
   <h1 style="font-size: 40px; color: #fff; margin: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
     Muhammad Khurram
   </h1>
-  <p style="font-size: 18px; color: #bfc3d6; margin: 10px 0 0;">
+  <p style="font-size: 18px; color: #fff; margin: 10px 0 0;">
     Software Quality Assurance Engineer | Web & Mobile Testing | Automation | Performance Testing
   </p>
 </div>
@@ -125,18 +125,25 @@
 ---
 
 ## 🎓 Education
+<p align="center">
+  <img src="https://img.shields.io/badge/B.S._Software_Engineering-2024-blue?style=for-the-badge&logo=university&logoColor=white" />
+  <img src="https://img.shields.io/badge/NCBAE-0A0A0A?style=for-the-badge&logo=education&logoColor=white" />
+</p>
+
 - **B.S. in Software Engineering**  
   National College of Business & Administration and Economics  
 
 ---
 
 ## 🏅 Certifications
-- **Introduction to Playwright**  
-- **Introduction to Cypress**  
-- **Applitools** (Visual Testing & Automation)  
-- **AWS Training & Certification**  
-- **Introduction to AWS Lambda**  
-- **Getting Started with DevOps on AWS**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Playwright-Introduction-blue?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-Introduction-ff69b4?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Applitools-Visual_Testing-orange?style=for-the-badge&logo=applitools&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Training%26Certification-yellow?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Lambda-Introduction-0073bb?style=for-the-badge&logo=aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps_on_AWS-Getting_Started-00bfff?style=for-the-badge&logo=aws&logoColor=white" />
+</p>
 
 ---
 
