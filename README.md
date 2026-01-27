@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Muhammad%20Khurram&fontSize=42&fontColor=ffffff&desc=Software%20Quality%20Assurance%20Engineer%20|%20Automation%20•%20Performance%20•%20Mobile%20%26%20API%20Testing&descSize=14&descAlignY=65" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Muhammad%20Khurram&fontSize=42&fontColor=ffffff&desc=Software%20Quality%20Assurance%20Engineer%20|%20Automation%20•%20Performance%20•%20Mobile%20%26%20API%20Testing&descSize=14&descAlignY=65"
+    alt="Muhammad Khurram Header"
+  />
 </p>
 
 <p align="center">
