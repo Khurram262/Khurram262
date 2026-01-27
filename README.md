@@ -20,14 +20,15 @@ Strong advocate for **CI/CD automation, test reliability, and cross-browser test
 
 ### 🧪 Test Automation
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=playwright,cypress,js" height="40"/>
+  <img src="https://skillicons.dev/icons?i=playwright,cypress,js,ts" height="40"/>
 </p>
 
 - End-to-End (E2E), Regression, Smoke & Exploratory Testing  
 - Scalable automation frameworks with reusable components  
 - Cross-browser & parallel test execution  
 - Test reporting, dashboards & failure analysis  
-- **Keywords for ATS:** Test automation, E2E automation, Playwright, Cypress, framework design
+
+---
 
 ### 📱 Mobile Testing
 <p align="center">
@@ -39,6 +40,8 @@ Strong advocate for **CI/CD automation, test reliability, and cross-browser test
 - Android & iOS automation  
 - Real-device testing & performance monitoring  
 - CI/CD integration for mobile workflows  
+
+---
 
 ### ⚡ Performance & API Testing
 <p align="center">
@@ -52,6 +55,8 @@ Strong advocate for **CI/CD automation, test reliability, and cross-browser test
 - REST API testing & automation  
 - Test plan design & execution  
 
+---
+
 ### 🚀 CI/CD, DevOps & Version Control
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes" height="40"/>
@@ -61,6 +66,8 @@ Strong advocate for **CI/CD automation, test reliability, and cross-browser test
 - Containerized test execution using **Docker**  
 - Environment orchestration with **Kubernetes**  
 - Version control using **Git & GitHub**  
+
+---
 
 ### 🐞 Bug Tracking & Test Management
 <p align="center">
@@ -85,6 +92,8 @@ Strong advocate for **CI/CD automation, test reliability, and cross-browser test
 - Implemented **CI/CD pipelines using GitHub Actions**  
 - Managed bugs, sprints, and releases using **ClickUp**  
 
+---
+
 ### 🔹 Bid Caribbean | Web & API Automation
 - Automated critical web workflows using **Playwright**  
 - Designed and executed **API test suites using Postman**  
@@ -92,11 +101,15 @@ Strong advocate for **CI/CD automation, test reliability, and cross-browser test
 - Ensured application stability under peak traffic  
 - Managed defects & releases using **ClickUp**  
 
+---
+
 ### 🔹 OpenMy Pro | Web Automation
 - Developed **Playwright automation scripts** for core user journeys  
 - Performed **manual, regression, smoke, and exploratory testing**  
 - Validated UI, functionality, and edge-case scenarios  
 - Maintained defect logs using **Google Sheets**  
+
+---
 
 ### 🔹 Magic AI School | Cypress Automation
 - Automated UI workflows using **Cypress**  
@@ -106,9 +119,17 @@ Strong advocate for **CI/CD automation, test reliability, and cross-browser test
 ---
 
 ## 📫 Contact
-- 💼 LinkedIn: [Muhammad Khurram](https://www.linkedin.com/in/muhammad-khurram-a9544622a)  
-- 🧑‍💻 GitHub: [Khurram262](https://github.com/Khurram262)  
-- 📧 Email: khurramimran908@gmail.com  
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-khurram-a9544622a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Khurram262" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:khurramimran908@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
