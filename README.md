@@ -1,21 +1,25 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Muhammad%20Khurram&fontSize=42&fontColor=ffffff&color=0b0c10,15162a,2a2b3d&desc=Software%20Quality%20Assurance%20Engineer&descAlignY=65" />
-</p>
+<div align="center" style="background: linear-gradient(135deg, #0b0c10, #15162a, #2a2b3d); padding: 40px 20px; border-radius: 25px; box-shadow: 0 10px 30px rgba(0,0,0,0.6);">
+  <h1 style="font-size: 40px; color: #fff; margin: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+    Muhammad Khurram
+  </h1>
+  <p style="font-size: 18px; color: #bfc3d6; margin: 10px 0 0;">
+    Software Quality Assurance Engineer | Web & Mobile Testing | Automation | Performance Testing
+  </p>
+</div>
 
+<br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&center=true&vCenter=true&width=850&lines=QA+Automation+Engineer;Playwright+%7C+Cypress+%7C+Appium;Performance+Testing+with+K6+%7C+JMeter;AI-Powered+Test+Dashboards;CI%2FCD+Integrated+Quality+Pipelines" />
-</p>
+<div align="center" style="background: #0f1320; padding: 25px 20px; border-radius: 20px; border: 1px solid #1f2334;">
+  <h2 style="color: #fff; margin: 0; font-size: 26px;">👨‍💻 Professional Summary</h2>
+  <p style="color: #bfc3d6; font-size: 16px; line-height: 1.6; max-width: 900px; margin: 15px auto 0;">
+    Results-driven <strong>Software Quality Assurance Engineer</strong> with strong experience in <strong>web, mobile, API, and performance testing</strong>.  
+    Proven expertise in <strong>end-to-end automation</strong>, <strong>cross-browser testing</strong>, and <strong>real-device mobile validation</strong>.  
+    Skilled in building scalable automation frameworks using <strong>Playwright, Cypress, Appium</strong> and performance testing using <strong>JMeter & K6</strong>.  
+    Track record of improving release stability, reducing manual testing effort by up to <strong>80%</strong>, and delivering high-quality software at scale.  
+    Experienced in integrating automation into <strong>CI/CD pipelines</strong>, creating <strong>AI-powered test dashboards</strong>, and driving test reliability through advanced reporting and flaky test detection.
+  </p>
+</div>
 
----
-
-## 👨‍💻 Professional Summary
-Results-driven **Software Quality Assurance Engineer** with **5+ years of experience** in **web, mobile, API, and performance testing**.  
-Skilled in **Playwright, Cypress, Appium, JMeter, K6**, and building **AI-powered test dashboards**.  
-Proven ability to **reduce manual testing effort by up to 80%**, improve release stability, and deliver high-quality software at scale.  
-Strong advocate for **CI/CD automation, test reliability, and cross-browser testing**.
-
----
 
 ## 🧰 Technical Skills
 
