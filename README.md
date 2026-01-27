@@ -124,18 +124,7 @@ Proven track record of **reducing manual testing effort by up to 80%**, improvin
 - Automated UI workflows using **Cypress**
 - Improved test coverage and execution reliability
 - Integrated automation suites into **CI/CD pipelines**
-
----
-
-## 📈 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khurram262&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khurram262&theme=tokyonight" />
-</p>
-
+  
 ---
 
 ## 📫 Contact
