@@ -1,7 +1,12 @@
 <h1 align="center">Muhammad Khurram</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Muhammad%20Khurram&fontSize=40&fontColor=ffffff&desc=Software%20Quality%20Assurance%20Engineer%20|%20Automation%20•%20Performance%20•%20Mobile%20Testing&descSize=14&descAlignY=65" />
+</p>
+
 <h3 align="center">
 Software Quality Assurance Engineer | Test Automation • Performance • Mobile & API Testing
 </h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&center=true&vCenter=true&width=800&lines=QA+Automation+Engineer;Playwright+%7C+Cypress+%7C+Appium;Performance+Testing+with+K6+%7C+JMeter;AI-Powered+Test+Dashboards;CI%2FCD+Integrated+Quality+Pipelines" />
@@ -79,7 +84,7 @@ Proven track record of **reducing manual testing effort by up to 80%**, improvin
 
 ## 💼 Professional Experience & Key Projects
 
-### 🔹 ReelRecruit — QA Automation Engineer  
+### 🔹 ReelRecruit
 **Playwright & Cypress Automation | AI-Powered Test Dashboard**
 
 - Designed and maintained a **Playwright-based E2E automation framework**
@@ -103,7 +108,7 @@ Proven track record of **reducing manual testing effort by up to 80%**, improvin
 
 ---
 
-### 🔹 Bid Caribbean — QA Automation & Performance Testing
+### 🔹 Bid Caribbean 
 - Automated critical web workflows using **Playwright**
 - Designed and executed **API test suites** using **Postman**
 - Conducted **load & stress testing** using **K6 and JMeter**
@@ -112,7 +117,7 @@ Proven track record of **reducing manual testing effort by up to 80%**, improvin
 
 ---
 
-### 🔹 OpenMy Pro — QA Engineer
+### 🔹 OpenMy Pro 
 - Developed **Playwright automation scripts** for core user journeys
 - Performed **manual, regression, smoke, and exploratory testing**
 - Validated UI, functionality, and edge-case scenarios
@@ -120,7 +125,7 @@ Proven track record of **reducing manual testing effort by up to 80%**, improvin
 
 ---
 
-### 🔹 Magic AI School — QA Automation Engineer
+### 🔹 Magic AI School 
 - Automated UI workflows using **Cypress**
 - Improved test coverage and execution reliability
 - Integrated automation suites into **CI/CD pipelines**
