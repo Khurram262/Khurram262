@@ -46,6 +46,7 @@ Skilled in building scalable automation solutions using **Playwright, Cypress, A
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
   <img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white" alt="Appium"/>
+  <img src="https://img.shields.io/badge/Maestro-FF6B6B?style=for-the-badge&logo=mobile&logoColor=white" alt="Maestro"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
 </p>
 
@@ -106,7 +107,6 @@ Skilled in building scalable automation solutions using **Playwright, Cypress, A
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 </p>
 
 ---
@@ -137,8 +137,6 @@ Skilled in building scalable automation solutions using **Playwright, Cypress, A
 ### 🔸 Additional Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 
@@ -164,7 +162,7 @@ Skilled in building scalable automation solutions using **Playwright, Cypress, A
 </details>
 
 <details>
-<summary><b>🌴 Bid Caribbean | Web & API Automation</b></summary>
+<summary><b>🌴 Bid Caribbean</b></summary>
 <br>
 
 - 🎭 Automated complex web workflows using **Playwright**
@@ -177,7 +175,7 @@ Skilled in building scalable automation solutions using **Playwright, Cypress, A
 </details>
 
 <details>
-<summary><b>🔓 OpenMy Pro | Web Automation</b></summary>
+<summary><b>🔓 OpenMy Pro</b></summary>
 <br>
 
 - 🎯 Playwright automation for core user journeys
@@ -189,7 +187,7 @@ Skilled in building scalable automation solutions using **Playwright, Cypress, A
 </details>
 
 <details>
-<summary><b>✨ Magic AI School | Cypress Automation</b></summary>
+<summary><b>✨ Magic AI School</b></summary>
 <br>
 
 - 🎪 Automated UI workflows using **Cypress**
@@ -198,18 +196,6 @@ Skilled in building scalable automation solutions using **Playwright, Cypress, A
 - 🎯 End-to-end testing of AI-powered features
 
 </details>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khurram262&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7D64FF&icon_color=7D64FF&text_color=FFFFFF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khurram262&theme=radical&hide_border=true&background=0D1117&stroke=7D64FF&ring=7D64FF&fire=FF6B6B&currStreakLabel=FFFFFF)
-
-</div>
 
 ---
 
@@ -234,14 +220,14 @@ Skilled in building scalable automation solutions using **Playwright, Cypress, A
 
 <div align="center">
 
-| Certification | Provider | Year |
-|--------------|----------|------|
-| 🎭 **Playwright - Introduction** | Test Automation University | 2024 |
-| 🌲 **Cypress - Introduction** | Test Automation University | 2024 |
-| 👁️ **Applitools Visual Testing** | Applitools | 2024 |
-| ☁️ **AWS Training & Certification** | Amazon Web Services | 2024 |
-| ⚡ **AWS Lambda - Introduction** | Amazon Web Services | 2024 |
-| 🚀 **Getting Started with DevOps on AWS** | Amazon Web Services | 2024 |
+| Certification | Provider |
+|--------------|----------|
+| 🎭 **Playwright - Introduction** | Test Automation University |
+| 🌲 **Cypress - Introduction** | Test Automation University |
+| 👁️ **Applitools Visual Testing** | Applitools |
+| ☁️ **AWS Training & Certification** | Amazon Web Services |
+| ⚡ **AWS Lambda - Introduction** | Amazon Web Services |
+| 🚀 **Getting Started with DevOps on AWS** | Amazon Web Services |
 
 </div>
 
@@ -291,8 +277,3 @@ I'm actively looking for **QA Engineer**, **SQA Engineer**, **Automation Enginee
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=Khurram262&color=7D64FF&style=for-the-badge&label=Profile+Views)
-
-</div>
