@@ -1,15 +1,18 @@
 <h1 align="center">Muhammad Khurram</h1>
-<h3 align="center">Software Quality Assurance Engineer | Automation • Performance • Mobile Testing</h3>
+<h3 align="center">
+Software Quality Assurance Engineer | Test Automation • Performance • Mobile & API Testing
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=QA+Automation+Engineer;Playwright+%7C+Cypress+%7C+Appium;Performance+Testing+with+K6+%7C+JMeter;AI-Powered+Test+Dashboards" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&center=true&vCenter=true&width=800&lines=QA+Automation+Engineer;Playwright+%7C+Cypress+%7C+Appium;Performance+Testing+with+K6+%7C+JMeter;AI-Powered+Test+Dashboards;CI%2FCD+Integrated+Quality+Pipelines" />
 </p>
 
 ---
 
 ## 👨‍💻 Professional Summary
-Detail-oriented **Software Quality Assurance Engineer** with strong experience in **web, mobile, API, and performance testing**.  
-Proven ability to design **scalable automation frameworks**, **AI-powered test dashboards**, and **CI/CD-integrated quality pipelines** that reduce manual testing effort and improve release reliability.
+Results-driven **Software Quality Assurance Engineer** with hands-on experience in **web, mobile, API, and performance testing**.  
+Specialized in building **robust Playwright & Cypress automation frameworks**, developing **AI-powered test dashboards**, and integrating **automation into CI/CD pipelines**.  
+Proven track record of **reducing manual testing effort by up to 80%**, improving release stability, and delivering high-quality software at scale.
 
 ---
 
@@ -20,12 +23,24 @@ Proven ability to design **scalable automation frameworks**, **AI-powered test d
   <img src="https://skillicons.dev/icons?i=playwright,cypress,js" height="40"/>
 </p>
 
+- End-to-End (E2E), Regression, Smoke & Exploratory Testing  
+- Scalable automation frameworks with reusable components  
+- Cross-browser & parallel test execution  
+- Test reporting, dashboards & failure analysis  
+
+---
+
 ### 📱 Mobile Testing
 <p>
   <img src="https://skillicons.dev/icons?i=android,apple" height="40"/>
   <img src="https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maestro-000000?style=for-the-badge"/>
 </p>
+
+- Android & iOS automation  
+- Real-device testing & performance monitoring  
+
+---
 
 ### ⚡ Performance & API Testing
 <p>
@@ -35,10 +50,21 @@ Proven ability to design **scalable automation frameworks**, **AI-powered test d
   <img src="https://skillicons.dev/icons?i=postman" height="40"/>
 </p>
 
-### 🚀 CI/CD & DevOps
+- Load, stress & performance benchmarking  
+- REST API validation, collections & environments  
+
+---
+
+### 🚀 CI/CD, DevOps & Version Control
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes" height="40"/>
 </p>
+
+- CI/CD test automation using GitHub Actions  
+- Containerized test execution using Docker  
+- Environment orchestration basics with Kubernetes  
+
+---
 
 ### 🐞 Bug Tracking & Test Management
 <p>
@@ -46,69 +72,77 @@ Proven ability to design **scalable automation frameworks**, **AI-powered test d
   <img src="https://skillicons.dev/icons?i=jira" height="40"/>
 </p>
 
+- Defect lifecycle management  
+- Test case design, execution & reporting  
+
 ---
 
 ## 💼 Professional Experience & Key Projects
 
-### 🔹 ReelRecruit — QA Automation Engineer
-**Automated Testing using Playwright Test Dashboard & E2E Framework**
+### 🔹 ReelRecruit — QA Automation Engineer  
+**Playwright & Cypress Automation | AI-Powered Test Dashboard**
 
-- Developed an **AI-powered test monitoring dashboard** with real-time **Server-Sent Events (SSE)** tracking and interactive visualizations.
-- Reduced **manual testing effort by 80%** through intelligent automation and failure analysis.
-- Built **35+ automated E2E test suites** covering:
+- Designed and maintained a **Playwright-based E2E automation framework**
+- Developed **35+ automated test suites** covering:
   - Authentication & authorization  
-  - Profile management  
+  - Profile and account management  
   - Job lifecycle workflows  
   - Candidate operations  
-  - Messaging systems  
-  - Database validations
+  - Messaging & notifications  
+  - Database validation
+- Built an **AI-powered test monitoring dashboard** featuring:
+  - Real-time **Server-Sent Events (SSE)** execution tracking  
+  - Interactive analytics & failure visualization
 - Integrated **Google Gemini AI** for:
   - Error pattern detection  
   - Root cause analysis  
   - Flaky test identification across **300+ test runs**
-- Implemented **CI/CD pipelines using GitHub Actions**.
-- Managed defects and sprint tracking via **ClickUp**.
+- Achieved **80% reduction in manual testing effort**
+- Implemented **CI/CD pipelines using GitHub Actions**
+- Managed bugs, sprints, and releases using **ClickUp**
 
 ---
 
 ### 🔹 Bid Caribbean — QA Automation & Performance Testing
-- Automated web  test flows using Playwright.
-- Conducted API testing using Postman collections.
-- Performed performance testing using K6 and JMeter.
-- Tracked bugs and releases using ClickUp.
+- Automated critical web workflows using **Playwright**
+- Designed and executed **API test suites** using **Postman**
+- Conducted **load & stress testing** using **K6 and JMeter**
+- Validated application stability under peak traffic
+- Defect tracking and release management via **ClickUp**
 
 ---
 
-### 🔹 OpenMy Pro 
-- Designed Playwright automation scripts for critical user flows.
-- Executed manual, regression, and smoke testing.
-- Bug tracking and reporting via Google Sheet.
+### 🔹 OpenMy Pro — QA Engineer
+- Developed **Playwright automation scripts** for core user journeys
+- Performed **manual, regression, smoke, and exploratory testing**
+- Validated UI, functionality, and edge-case scenarios
+- Maintained defect logs using **Google Sheets**
 
 ---
 
-### 🔹 Magic AI School 
-- Automated UI test suites using Cypress.
-- Integrated automation tests into CI/CD pipelines.
-
+### 🔹 Magic AI School — QA Automation Engineer
+- Automated UI workflows using **Cypress**
+- Improved test coverage and execution reliability
+- Integrated automation suites into **CI/CD pipelines**
 
 ---
 
 ## 📈 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Khurram262&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khurram262&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📫 Contact
-- 💼 LinkedIn: **https://www.linkedin.com/in/muhammad-khurram-a9544622a**
-- 🧑‍💻 GitHub: **https://github.com/Khurram262**
-- 📧 Email: **khurramimran908@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-khurram-a9544622a  
+- 🧑‍💻 GitHub: https://github.com/Khurram262  
+- 📧 Email: khurramimran908@gmail.com  
 
 ---
 
-⭐ *Open to QA / SQA / Automation & Junior Roles*
+⭐ **Open to QA / SQA / Automation & Junior Roles**
