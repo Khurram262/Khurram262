@@ -1,9 +1,6 @@
 <p align="center">
-
 ![Muhammad Khurram](https://capsule-render.vercel.app/api?type=waving&height=220&text=Muhammad%20Khurram&fontSize=42&fontColor=ffffff&color=0f2027,203a43&desc=Software%20Quality%20Assurance%20Engineer&descAlignY=65)
-
 </p>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&center=true&vCenter=true&width=850&lines=QA+Automation+Engineer;Playwright+%7C+Cypress+%7C+Appium;Performance+Testing+with+K6+%7C+JMeter;AI-Powered+Test+Dashboards;CI%2FCD+Integrated+Quality+Pipelines" />
@@ -21,7 +18,7 @@ Proven track record of **reducing manual testing effort by up to 80%**, improvin
 ## 🧰 Technical Skills
 
 ### 🧪 Test Automation
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=playwright,cypress,js" height="40"/>
 </p>
 
@@ -33,7 +30,7 @@ Proven track record of **reducing manual testing effort by up to 80%**, improvin
 ---
 
 ### 📱 Mobile Testing
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=android,apple" height="40"/>
   <img src="https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maestro-000000?style=for-the-badge"/>
@@ -45,7 +42,7 @@ Proven track record of **reducing manual testing effort by up to 80%**, improvin
 ---
 
 ### ⚡ Performance & API Testing
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white"/>
   <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apptim-00C853?style=for-the-badge"/>
@@ -58,7 +55,7 @@ Proven track record of **reducing manual testing effort by up to 80%**, improvin
 ---
 
 ### 🚀 CI/CD, DevOps & Version Control
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes" height="40"/>
 </p>
 
@@ -69,7 +66,7 @@ Proven track record of **reducing manual testing effort by up to 80%**, improvin
 ---
 
 ### 🐞 Bug Tracking & Test Management
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white"/>
   <img src="https://skillicons.dev/icons?i=jira" height="40"/>
 </p>
