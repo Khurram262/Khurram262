@@ -1,8 +1,8 @@
-<div align="center" style="background: #0b0c10; padding: 40px 20px; border-radius: 25px; box-shadow: 0 10px 30px rgba(0,0,0,0.6);">
+<div align="center" style="background: linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.65)), url('https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1600&q=80'); background-size: cover; background-position: center; padding: 40px 20px; border-radius: 25px; box-shadow: 0 10px 30px rgba(0,0,0,0.6);">
   <h1 style="font-size: 40px; color: #fff; margin: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
     Muhammad Khurram
   </h1>
-  <p style="font-size: 18px; color: #bfc3d6; margin: 10px 0 0;">
+  <p style="font-size: 18px; color: #fff; margin: 10px 0 0;">
     Software Quality Assurance Engineer | Web & Mobile Testing | Automation | Performance Testing
   </p>
 </div>
