@@ -1,12 +1,11 @@
-<div align="center" style="background: linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.65)), url('https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1600&q=80'); background-size: cover; background-position: center; padding: 40px 20px; border-radius: 25px; box-shadow: 0 10px 30px rgba(0,0,0,0.6);">
-  <h1 style="font-size: 40px; color: #fff; margin: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<div align="center" style="background: linear-gradient(135deg, #0b0c10, #15162a, #2a2b3d), url('https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1600&q=80'); background-size: cover; background-position: center; padding: 45px 20px; border-radius: 25px; box-shadow: 0 10px 30px rgba(0,0,0,0.6);">
+  <h1 style="font-size: 44px; color: #fff; margin: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
     Muhammad Khurram
   </h1>
   <p style="font-size: 18px; color: #fff; margin: 10px 0 0;">
     Software Quality Assurance Engineer | Web & Mobile Testing | Automation | Performance Testing
   </p>
 </div>
-
 
 <br/>
 
@@ -25,42 +24,39 @@
 
 ## 🧰 Technical Skills
 
-### 🧪 Test Automation
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=playwright,cypress,js,ts" height="40"/>
+  <img src="https://skillicons.dev/icons?i=playwright,cypress,appium,js,ts,postman,zapier" height="40"/>
 </p>
 
-- End-to-End (E2E), Regression, Smoke & Exploratory Testing  
-- Scalable automation frameworks with reusable components  
-- Cross-browser & parallel test execution  
-- Test reporting, dashboards & failure analysis  
+### 🔹 Automation & Testing
+- End-to-End (E2E) Automation  
+- Regression & Smoke Testing  
+- Cross-browser & Parallel Testing  
+- API Testing & Validation  
+- Manual Testing (UI, Functional, Exploratory)  
 
 ---
 
 ### 📱 Mobile Testing
 <p align="center">
   <img src="https://skillicons.dev/icons?i=android,apple" height="40"/>
-  <img src="https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maestro-000000?style=for-the-badge"/>
 </p>
 
-- Android & iOS automation  
-- Real-device testing & performance monitoring  
-- CI/CD integration for mobile workflows  
+- Android & iOS Automation  
+- Real-device Testing & Validation  
+- Mobile Performance Monitoring  
 
 ---
 
-### ⚡ Performance & API Testing
+### ⚡ Performance Testing
 <p align="center">
   <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white"/>
   <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apptim-00C853?style=for-the-badge"/>
-  <img src="https://skillicons.dev/icons?i=postman" height="40"/>
 </p>
 
-- Load, stress, and performance benchmarking  
-- REST API testing & automation  
-- Test plan design & execution  
+- Load & Stress Testing  
+- Benchmarking & Scalability Testing  
+- Performance Reporting & Analysis  
 
 ---
 
@@ -69,10 +65,10 @@
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes" height="40"/>
 </p>
 
-- CI/CD test automation using **GitHub Actions**  
-- Containerized test execution using **Docker**  
-- Environment orchestration with **Kubernetes**  
-- Version control using **Git & GitHub**  
+- GitHub Actions CI/CD  
+- Docker Containerized Testing  
+- Kubernetes Orchestration  
+- Git Version Control  
 
 ---
 
@@ -82,9 +78,9 @@
   <img src="https://skillicons.dev/icons?i=jira" height="40"/>
 </p>
 
-- Defect lifecycle management  
-- Test case design, execution & reporting  
-- Sprint planning & agile workflows  
+- Defect Lifecycle Management  
+- Test Case Design & Execution  
+- Agile Workflow & Sprint Planning  
 
 ---
 
@@ -92,36 +88,34 @@
 
 ### 🔹 ReelRecruit | Playwright & Cypress Automation | AI-Powered Test Dashboard
 - Designed and maintained a **Playwright-based E2E automation framework**  
-- Developed **35+ automated test suites**: authentication, account management, workflows, messaging, database validation  
-- Built **AI-powered test monitoring dashboards** with real-time analytics  
-- Integrated **Google Gemini AI** for error pattern detection & flaky test identification  
+- Developed **35+ automated test suites**  
+- Built **AI-powered test dashboards**  
+- Integrated **Google Gemini AI** for flaky test detection  
 - Achieved **80% reduction in manual testing effort**  
-- Implemented **CI/CD pipelines using GitHub Actions**  
-- Managed bugs, sprints, and releases using **ClickUp**  
+- CI/CD pipeline automation using **GitHub Actions**  
+- Managed sprints & releases using **ClickUp**
 
 ---
 
 ### 🔹 Bid Caribbean | Web & API Automation
-- Automated critical web workflows using **Playwright**  
-- Designed and executed **API test suites using Postman**  
-- Conducted **load & stress testing using K6 and JMeter**  
-- Ensured application stability under peak traffic  
-- Managed defects & releases using **ClickUp**  
+- Automated web workflows using **Playwright**  
+- API testing using **Postman**  
+- Load & stress testing using **K6 & JMeter**  
+- Managed defects & releases using **ClickUp**
 
 ---
 
 ### 🔹 OpenMy Pro | Web Automation
-- Developed **Playwright automation scripts** for core user journeys  
-- Performed **manual, regression, smoke, and exploratory testing**  
-- Validated UI, functionality, and edge-case scenarios  
-- Maintained defect logs using **Google Sheets**  
+- Playwright automation for core user journeys  
+- Manual, regression, smoke, and exploratory testing  
+- Defect logging using **Google Sheets**
 
 ---
 
 ### 🔹 Magic AI School | Cypress Automation
 - Automated UI workflows using **Cypress**  
-- Improved test coverage and execution reliability  
-- Integrated automation suites into **CI/CD pipelines**  
+- Improved test reliability and coverage  
+- CI/CD integration for automation suites  
 
 ---
 
