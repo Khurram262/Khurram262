@@ -1,15 +1,9 @@
-<h1 align="center">Muhammad Khurram</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Muhammad%20Khurram&fontSize=40&fontColor=ffffff&desc=Software%20Quality%20Assurance%20Engineer%20|%20Automation%20•%20Performance%20•%20Mobile%20Testing&descSize=14&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Muhammad%20Khurram&fontSize=42&fontColor=ffffff&desc=Software%20Quality%20Assurance%20Engineer%20|%20Automation%20•%20Performance%20•%20Mobile%20%26%20API%20Testing&descSize=14&descAlignY=65" />
 </p>
 
-<h3 align="center">
-Software Quality Assurance Engineer | Test Automation • Performance • Mobile & API Testing
-</h3>
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&center=true&vCenter=true&width=800&lines=QA+Automation+Engineer;Playwright+%7C+Cypress+%7C+Appium;Performance+Testing+with+K6+%7C+JMeter;AI-Powered+Test+Dashboards;CI%2FCD+Integrated+Quality+Pipelines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&center=true&vCenter=true&width=850&lines=QA+Automation+Engineer;Playwright+%7C+Cypress+%7C+Appium;Performance+Testing+with+K6+%7C+JMeter;AI-Powered+Test+Dashboards;CI%2FCD+Integrated+Quality+Pipelines" />
 </p>
 
 ---
@@ -67,7 +61,7 @@ Proven track record of **reducing manual testing effort by up to 80%**, improvin
 
 - CI/CD test automation using GitHub Actions  
 - Containerized test execution using Docker  
-- Environment orchestration basics with Kubernetes  
+- Environment orchestration fundamentals with Kubernetes  
 
 ---
 
@@ -84,7 +78,7 @@ Proven track record of **reducing manual testing effort by up to 80%**, improvin
 
 ## 💼 Professional Experience & Key Projects
 
-### 🔹 ReelRecruit
+### 🔹 ReelRecruit 
 **Playwright & Cypress Automation | AI-Powered Test Dashboard**
 
 - Designed and maintained a **Playwright-based E2E automation framework**
@@ -95,7 +89,7 @@ Proven track record of **reducing manual testing effort by up to 80%**, improvin
   - Candidate operations  
   - Messaging & notifications  
   - Database validation
-- Built an **AI-powered test monitoring dashboard** featuring:
+- Built an **AI-powered test monitoring dashboard** with:
   - Real-time **Server-Sent Events (SSE)** execution tracking  
   - Interactive analytics & failure visualization
 - Integrated **Google Gemini AI** for:
@@ -129,7 +123,7 @@ Proven track record of **reducing manual testing effort by up to 80%**, improvin
 - Automated UI workflows using **Cypress**
 - Improved test coverage and execution reliability
 - Integrated automation suites into **CI/CD pipelines**
-  
+
 ---
 
 ## 📫 Contact
