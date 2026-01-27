@@ -222,10 +222,8 @@ Skilled in building scalable automation solutions using **Playwright, Cypress, A
 
 | Certification | Provider |
 |--------------|----------|
-| 🎭 **Playwright - Introduction** | Test Automation University |
-| 🌲 **Cypress - Introduction** | Test Automation University |
-| 👁️ **Applitools Visual Testing** | Applitools |
-| ☁️ **AWS Training & Certification** | Amazon Web Services |
+| 🎭 **Playwright - Introduction** | Applitools |
+| 🌲 **Cypress - Introduction** | Applitools |
 | ⚡ **AWS Lambda - Introduction** | Amazon Web Services |
 | 🚀 **Getting Started with DevOps on AWS** | Amazon Web Services |
 
