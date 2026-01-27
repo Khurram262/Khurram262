@@ -72,26 +72,24 @@ Proven ability to design **scalable automation frameworks**, **AI-powered test d
 ---
 
 ### 🔹 Bid Caribbean — QA Automation & Performance Testing
-- Automated web and mobile test flows using **Playwright & Appium**.
-- Conducted **API testing** using Postman collections.
-- Performed **performance testing** using **K6 and JMeter**.
-- Tracked bugs and releases using **ClickUp**.
+- Automated web  test flows using Playwright.
+- Conducted API testing using Postman collections.
+- Performed performance testing using K6 and JMeter.
+- Tracked bugs and releases using ClickUp.
 
 ---
 
-### 🔹 OpenMy Pro — QA Engineer
+### 🔹 OpenMy Pro 
 - Designed Playwright automation scripts for critical user flows.
-- Executed **manual, regression, and smoke testing**.
-- Utilized **Docker & Kubernetes** for test environments.
-- Bug tracking and reporting via **ClickUp**.
+- Executed manual, regression, and smoke testing.
+- Bug tracking and reporting via Google Sheet.
 
 ---
 
-### 🔹 Magic AI School — QA Automation Engineer
-- Automated UI test suites using **Cypress**.
-- Conducted mobile performance monitoring with **Apptim**.
+### 🔹 Magic AI School 
+- Automated UI test suites using Cypress.
 - Integrated automation tests into CI/CD pipelines.
-- Maintained test documentation and issues in **ClickUp**.
+
 
 ---
 
@@ -107,10 +105,10 @@ Proven ability to design **scalable automation frameworks**, **AI-powered test d
 ---
 
 ## 📫 Contact
-- 💼 LinkedIn: **linkedin.com/in/your-link**
-- 🧑‍💻 GitHub: **github.com/YOUR_GITHUB_USERNAME**
-- 📧 Email: **your.email@example.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/muhammad-khurram-a9544622a**
+- 🧑‍💻 GitHub: **https://github.com/Khurram262**
+- 📧 Email: **khurramimran908@gmail.com**
 
 ---
 
-⭐ *Open to QA / SQA / Automation Intern & Junior Roles*
+⭐ *Open to QA / SQA / Automation & Junior Roles*
