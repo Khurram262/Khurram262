@@ -12,7 +12,7 @@
 <div style="background: #0f1320; padding: 25px 20px; border-radius: 20px; border: 1px solid #1f2334;">
   <h2 style="color: #fff; font-size: 26px; margin: 0 0 10px;">👨‍💻 Professional Summary</h2>
   <p style="color: #bfc3d6; font-size: 16px; line-height: 1.6; margin: 0;">
-    Results-driven <strong>Software Quality Assurance Engineer</strong> with strong experience in <strong>web, mobile, API, and performance testing</strong>.  
+    Results-driven <strong>Software Quality Assurance Engineer (SQA)</strong> with strong experience in <strong>web, mobile, API, and performance testing</strong>.  
     Proven expertise in <strong>end-to-end automation</strong>, <strong>cross-browser testing</strong>, and <strong>real-device mobile validation</strong>.  
     Skilled in building scalable automation frameworks using <strong>Playwright, Cypress, Appium</strong> and performance testing using <strong>JMeter & K6</strong>.  
     Track record of improving release stability, reducing manual testing effort by up to <strong>80%</strong>, and delivering high-quality software at scale.  
@@ -121,6 +121,22 @@
 - Automated UI workflows using **Cypress**  
 - Improved test coverage and execution reliability  
 - Integrated automation suites into **CI/CD pipelines**  
+
+---
+
+## 🎓 Education
+- **B.S. in Software Engineering**  
+  National College of Business & Administration and Economics  
+
+---
+
+## 🏅 Certifications
+- **Introduction to Playwright**  
+- **Introduction to Cypress**  
+- **Applitools** (Visual Testing & Automation)  
+- **AWS Training & Certification**  
+- **Introduction to AWS Lambda**  
+- **Getting Started with DevOps on AWS**  
 
 ---
 
